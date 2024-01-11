@@ -1,5 +1,4 @@
-signify
-ownership
+signify ownership
 Snake
 Shareholders’ dividends
 testing of Noon Nopi of brands in multiple industries/products
