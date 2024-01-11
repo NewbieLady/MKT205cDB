@@ -1,0 +1,22 @@
+Hospitals
+Relatively fixed capacity
+Perishable inventory
+Highly time-variable demand
+Can act proactively about balancing supply and demand.
+Can differentiate service offerings.
+Can better predict demand.
+Difference in the ability to plan in advance
+Difference in the preferred time of consumption
+Difference in the perceived value of an essentially same product
+Difference in the level of uncertainty of the use
+Difference in the flexibility with the time of consumption
+needs perceived value
+By capturing more demand by charging lower prices to those who are not willing pay regular prices
+By charging a higher price to customers who are willing to pay higher price
+true
+It is a set of conditions that have to be satisfied in order for a lower price to be allowed.
+It is a set of characteristics that distinguish customers from one segment from another.
+Premium pricing
+true
+Target discounting
+true
